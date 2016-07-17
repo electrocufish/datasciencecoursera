@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Scientist's Toolbox Week 4 Project
+This repository is part of Coursera's Data Scientist's Toolbox Week 4 Project.
